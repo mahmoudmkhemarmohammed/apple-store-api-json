@@ -7,7 +7,6 @@ const middlewares = jsonServer.defaults();
 
 // قواعد المصادقة
 const rules = auth.rewriter({
-  // Permissions
   users: 600, // فقط المالك يمكنه الوصول
   posts: 644, // المالك يمكنه الكتابة، والجميع يمكنهم القراءة
 });
