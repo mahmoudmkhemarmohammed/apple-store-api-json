@@ -14,15 +14,6 @@ const middlewares = jsonServer.defaults();
 app.use(middlewares);
 app.use(jsonServer.bodyParser);
 
-// قواعد المصادقة
-const rules = auth.rewriter({
-  users: 600, // فقط المالك يمكنه الوصول
-  posts: 644, // المالك يمكنه الكتابة، والجميع يمكنهم القراءة
-});
-
-// تطبيق قواعد المصادقة
-app.use(rules);
-
 // ربط قاعدة البيانات بالتطبيق
 app.db = router.db;
 
