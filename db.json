@@ -1,0 +1,408 @@
+{
+  "users": [],
+  "wishlist": [],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Mac",
+      "prefix": "mac",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-mac-nav-202410?wid=400&hei=260&fmt=png-alpha&.v=1728342368663"
+    },
+    {
+      "id": 2,
+      "title": "iphone",
+      "prefix": "iphone",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-iphone-nav-202409_GEO_US?wid=400&hei=260&fmt=png-alpha&.v=1723857157128"
+    },
+    {
+      "id": 3,
+      "title": "ipad",
+      "prefix": "ipad",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-ipad-nav-202405?wid=400&hei=260&fmt=png-alpha&.v=1714168620875"
+    },
+    {
+      "id": 4,
+      "title": "Apple Watch",
+      "prefix": "apple-watch",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-watch-nav-202409?wid=400&hei=260&fmt=png-alpha&.v=1724165625838"
+    },
+    {
+      "id": 5,
+      "title": "AirPods",
+      "prefix": "airpods",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-airpods-nav-202409?wid=400&hei=260&fmt=png-alpha&.v=1722974349822"
+    },
+    {
+      "id": 6,
+      "title": "Apple Vision pro",
+      "prefix": "apple-vision-pro",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-vision-pro-nav-202401?wid=400&hei=260&fmt=png-alpha&.v=1702403595269"
+    },
+    {
+      "id": 7,
+      "title": "AirTag",
+      "prefix": "airtag",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-airtags-nav-202108?wid=400&hei=260&fmt=png-alpha&.v=1625783380000"
+    },
+    {
+      "id": 8,
+      "title": "Accessories",
+      "prefix": "accessories",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-accessories-nav-202409?wid=400&hei=260&fmt=png-alpha&.v=1723738892174"
+    }
+  ],
+  "banners": [
+    {
+      "id": 1,
+      "title": "banner-1",
+      "img": "https://cdn.shopify.com/s/files/1/2158/2147/files/N-APPLE.png?v=1710285943"
+    },
+    {
+      "id": 2,
+      "title": "banner-2",
+      "img": "https://www.isubookstore.com/site/landing-pages/techcyte/apple-landing/Homepod%20mini(v4).gif"
+    },
+    {
+      "id": 3,
+      "title": "banner-3",
+      "img": "https://www.scuba.com/adminImages/cms/ROYqgv8u.JPG"
+    },
+    {
+      "id": 4,
+      "title": "banner-4",
+      "img": "https://i.pcmag.com/imagery/series/07qdBdPlrC5xzbuPLGV2mci/page_mobile_banner_image.fit_lim.size_767x196.v1726175165.png"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Mac Book Air",
+      "price": 999,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 2100,
+      "isOnSale": true,
+      "discount": 100,
+      "cat_prefix": "mac",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-macbook-air-202410?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1731974970795"
+    },
+    {
+      "id": 2,
+      "title": "Mac Book Pro",
+      "price": 1599,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1400,
+      "isOnSale": false,
+      "discount": 0,
+      "cat_prefix": "mac",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-macbookpro-14-16-202410?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1731974949535"
+    },
+    {
+      "id": 3,
+      "title": "iMac",
+      "price": 1299,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1200,
+      "isOnSale": true,
+      "discount": 90,
+      "cat_prefix": "mac",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-imac-202410?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1731974953703"
+    },
+    {
+      "id": 4,
+      "title": "Mac Mini",
+      "price": 599,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1100,
+      "isOnSale": false,
+      "discount": 0,
+      "cat_prefix": "mac",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-mac-mini-202410?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1731974953743"
+    },
+    {
+      "id": 5,
+      "title": "Studio Display",
+      "price": 1599,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 2000,
+      "isOnSale": false,
+      "discount": 0,
+      "cat_prefix": "mac",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-studio-display-202203?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1731974953778"
+    },
+    {
+      "id": 6,
+      "title": "Pro Display XDR",
+      "price": 4999,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 600,
+      "isOnSale": false,
+      "discount": 0,
+      "cat_prefix": "mac",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-mac-pro-display-202108?wid=680&hei=528&fmt=jpeg&qlt=90&.v=1731974949523"
+    },
+    {
+      "id": 7,
+      "title": "iphone 16 pro",
+      "price": 3000,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1300,
+      "isOnSale": false,
+      "discount": 0,
+      "cat_prefix": "iphone",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone16prohero-202409?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1725567335931"
+    },
+    {
+      "id": 8,
+      "title": "iphone 16",
+      "price": 2300,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": true,
+      "discount": 300,
+      "cat_prefix": "iphone",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone16hero-202409?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1723234230295"
+    },
+    {
+      "id": 9,
+      "title": "iphone 15",
+      "price": 1990,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": true,
+      "discount": 300,
+      "cat_prefix": "iphone",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone15hero-202309?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1693086290559"
+    },
+    {
+      "id": 10,
+      "title": "iphone 14",
+      "price": 1500,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": true,
+      "discount": 300,
+      "cat_prefix": "iphone",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone14-202209?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1693086290654"
+    },
+    {
+      "id": 11,
+      "title": "ipad pro",
+      "price": 999,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": true,
+      "discount": 300,
+      "cat_prefix": "ipad",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-pro-202405?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1713920820026"
+    },
+    {
+      "id": 12,
+      "title": "ipad Air",
+      "price": 599,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": true,
+      "discount": 300,
+      "cat_prefix": "ipad",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-air-202405?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1713920820139"
+    },
+    {
+      "id": 13,
+      "title": "ipad",
+      "price": 349,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": true,
+      "discount": 300,
+      "cat_prefix": "ipad",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-ipad-202410?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1727714411651"
+    },
+    {
+      "id": 14,
+      "title": "ipad mini",
+      "price": 499,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": false,
+      "discount": 0,
+      "cat_prefix": "ipad",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-ipad-mini-202410?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1727281366305"
+    },
+    {
+      "id": 15,
+      "title": "Apple Watch Series 10",
+      "price": 399,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": false,
+      "discount": 0,
+      "cat_prefix": "apple-watch",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-s10-202409?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1724168059157"
+    },
+    {
+      "id": 16,
+      "title": "Apple Watch Ultra 2",
+      "price": 799,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": false,
+      "discount": 0,
+      "cat_prefix": "apple-watch",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-ultra2-202409?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1724168059585"
+    },
+    {
+      "id": 17,
+      "title": "Apple Watch SE",
+      "price": 249,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": false,
+      "discount": 0,
+      "cat_prefix": "apple-watch",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-se-202409?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1724168056018"
+    },
+    {
+      "id": 18,
+      "title": "Apple Watch Hermès Series 10",
+      "price": 1249,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": true,
+      "discount": 300,
+      "cat_prefix": "apple-watch",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-hermes-202409?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1724168059486"
+    },
+    {
+      "id": 19,
+      "title": "Apple Watch Hermès Ultra 2",
+      "price": 1399,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": true,
+      "discount": 300,
+      "cat_prefix": "apple-watch",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-hermes-ultra-202409?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1724168059062"
+    },
+    {
+      "id": 20,
+      "title": "Apple Vision pro",
+      "price": 3499,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": false,
+      "discount": 0,
+      "cat_prefix": "apple-vision-pro",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/vision-pro-card-66-vision-pro-202401?wid=1172&hei=588&fmt=p-jpg&qlt=95&.v=1702510799485"
+    },
+    {
+      "id": 21,
+      "title": "ZEISS Optical Inserts",
+      "price": 99,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": false,
+      "discount": 0,
+      "cat_prefix": "apple-vision-pro",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/vision-pro-card-40-zeiss-optical-202401?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1701910501144"
+    },
+    {
+      "id": 22,
+      "title": "Air Pods Max",
+      "price": 549,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": false,
+      "discount": 0,
+      "cat_prefix": "airpods",
+      "img": "https://www.apple.com/v/airpods/x/images/overview/airpods_max_blue__fsfaleh1smuu_large.png"
+    },
+    {
+      "id": 23,
+      "title": "Air Pods Pro 2",
+      "price": 600,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": false,
+      "discount": 0,
+      "cat_prefix": "airpods",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-4-anc-select-202409?wid=532&hei=582&fmt=png-alpha&.v=1725502639798"
+    },
+    {
+      "id": 24,
+      "title": "AirTag",
+      "price": 29,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": false,
+      "discount": 0,
+      "cat_prefix": "airtag",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airtag-single-select-202104?wid=890&hei=890&fmt=jpeg&qlt=90&.v=1617761671000"
+    },
+    {
+      "id": 25,
+      "title": "AirTag FineWoven Key Ring – Blackberry",
+      "price": 35,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": false,
+      "discount": 0,
+      "cat_prefix": "airtag",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MA7K4?wid=890&hei=890&fmt=jpeg&qlt=90&.v=1723856728623"
+    },
+    {
+      "id": 26,
+      "title": "AirTag FineWoven Key Ring – Blackberry",
+      "price": 35,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": false,
+      "discount": 0,
+      "cat_prefix": "airtag",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HQ682?wid=890&hei=890&fmt=jpeg&qlt=90&.v=1689619505807"
+    },
+    {
+      "id": 27,
+      "title": "HomePod mini - Yellow",
+      "price": 99,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": false,
+      "discount": 0,
+      "cat_prefix": "accessories",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/homepod-mini-select-yellow-202110?wid=532&hei=582&fmt=png-alpha&.v=1632925510000"
+    },
+    {
+      "id": 28,
+      "title": "Apple Pencil (USB-C)",
+      "price": 79,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": false,
+      "discount": 0,
+      "cat_prefix": "accessories",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MUWA3?wid=532&hei=582&fmt=png-alpha&.v=1695933856697"
+    },
+    {
+      "id": 29,
+      "title": "Strap",
+      "price": 90,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": false,
+      "discount": 0,
+      "cat_prefix": "accessories",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MY3W3ref?wid=532&hei=582&fmt=png-alpha&.v=1724186613493"
+    },
+    {
+      "id": 30,
+      "title": "Magic Mouse",
+      "price": 100,
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam soluta minima expedita suscipit exercitationem officiis animi reiciendis consequuntur velit voluptas cumque, aliquam nostrum possimus unde a ratione inventore dolores beatae.",
+      "sales": 1600,
+      "isOnSale": false,
+      "discount": 0,
+      "cat_prefix": "accessories",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MXK63?wid=532&hei=582&fmt=png-alpha&.v=1730508287136"
+    }
+  ]
+}
